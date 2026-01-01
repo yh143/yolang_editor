@@ -17,8 +17,8 @@ LANGUAGES = {
         "no_file_to_save": "Error: No file to save.",
         "exit": "Exiting YoLang Editor.",
         "invalid_choice": "Invalid choice. Please try again.",
-        "change_language": "Available languages: en, zh-cn. Enter language code: ",
-        "language_changed": "Language changed to {language}.",
+        "change_language": "Available languages: en(English), zh-cn(Chinese). Enter language code: ",
+        "language_changed": "Language changed to English.",
     },
     "zh-cn": {
         "welcome": "--- YoLang 编辑器 ---",
@@ -35,8 +35,8 @@ LANGUAGES = {
         "no_file_to_save": "错误: 没有文件可保存。",
         "exit": "正在退出 YoLang 编辑器。",
         "invalid_choice": "无效的选择，请重试。",
-        "change_language": "可用语言: en, zh-cn。请输入语言代码: ",
-        "language_changed": "语言已切换为 {language}。",
+        "change_language": "可用语言: en(英文), zh-cn（中文）。请输入语言代码: ",
+        "language_changed": "语言已切换为zh-cn。",
     }
 }
 
